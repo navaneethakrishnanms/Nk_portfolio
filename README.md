@@ -2,7 +2,7 @@
 
 A premium, interactive professional portfolio showcasing expertise in **Deep Learning**, **Computer Vision**, and **Large Language Models (LLMs)**. Built with a dynamic neural network background that reacts to user interaction.
 
-🚀 **Live Demo:** [Paste your Netlify Link Here]
+🚀 **Live Demo:** [[Paste your Netlify Link Here](https://navaneethakrishnanms27.netlify.app/)]
 
 ---
 
