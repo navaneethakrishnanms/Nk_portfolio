@@ -64,7 +64,10 @@ You only need a web browser. No installation is required to view the site.
 
 📬 Connect with Me
 
-LinkedIn: navaneetha-krishnan-m-s
-GitHub: navaneethakrishnanms
-Email: navaneethakrishnanms.ad24@bitsathy.ac.in
-Phone: 9361819486
+- LinkedIn: navaneetha-krishnan-m-s
+
+- GitHub: navaneethakrishnanms
+
+- Email: navaneethakrishnanms.ad24@bitsathy.ac.in
+
+- Phone: 9361819486
